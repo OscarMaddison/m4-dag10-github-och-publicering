@@ -11,3 +11,5 @@ Lista på tekniker som använts i denna övning:
 * Variabler
 * Git
 * Github
+
+Länk till live-sidan: https://oscarmaddison.github.io/m4-dag10-github-och-publicering/
