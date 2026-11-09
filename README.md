@@ -1,26 +1,18 @@
-# Dag 10 · GitHub och publicering
+# Kaféhemsidor - övning
 
-*Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
+Detta är ett projekt för att lära mig hur man skapar enkla hemsidor. Denna prototyp är formad som två enkla hemsidor för ett kafé - en introduktion/menysida och en beställnaingssida.
 
-## Vad du ska göra idag
+Lista på tekniker som använts i denna övning:
+* HTML
+* CSS
+* Flexbox
+* Grid
+* Responsiv design
+* Variabler
+* Git
+* Github
 
-Du skickar upp ditt arbete med `git push` och publicerar sidan på riktigt med GitHub Pages. Du får en publik adress som alla kan öppna.
-
-## Bakgrund
-
-Hittills har dina commits bara funnits på din dator. Ett *remote* repo på GitHub är både en säkerhetskopia och ett sätt att dela. **GitHub Pages** gör att GitHub visar dina HTML-filer som en riktig webbplats på `https://ditt-namn.github.io/repo/`.
-
-## Så arbetar du (samma som alltid)
-
-1. **Forka** dagens repo på GitHub (*Fork → Create fork*).
-2. **Klona din fork:** *Code → HTTPS → kopiera adressen*. I terminalen (Ctrl+ö i VS Code): `git clone <adressen>`. Öppna den nya mappen i VS Code och starta *Live Server*.
-3. **Gör uppgiften.** Spara och kontrollera i webbläsaren efter varje steg. Gör en commit efter varje avslutat steg: `git add .` och `git commit -m "Beskriv vad du gjorde"`.
-4. **Skicka upp** när du är klar: `git push`.
-5. **Lämna in i Microsoft Forms.**
-
-Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa handledda pass.
-
-## Uppgiften steg för steg
+## Senaste uppgiften
 
 ### Steg 1. Kontrollera kopplingen
 
